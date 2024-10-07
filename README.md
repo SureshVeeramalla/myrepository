@@ -1,1 +1,1 @@
-Laptop Price prediction for Smarttech & co
+Hello, I have done some interesting projects regarding to my data science bootcamp.
